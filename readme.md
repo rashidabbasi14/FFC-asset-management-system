@@ -47,26 +47,14 @@ Our system leverages a robust and widely adopted technical stack to ensure perfo
 *   **Database:** (Likely MySQL or similar relational database - *to be confirmed based on implementation details*)
 *   **Charting:** JavaScript-based charting libraries (for dynamic visualizations)
 
-## Installation & Setup
-
-*(Detailed installation instructions will be provided here, covering database setup, web server configuration, and initial system deployment.)*
-
-## Usage
-
-*(A guide on how to navigate the system, add assets, manage users, and generate reports will be provided here.)*
-
-## Screenshots
-
-*(Captivating screenshots showcasing the intuitive user interface, dynamic dashboards, and key feature functionalities will be inserted here to provide a visual demonstration of the system's power.)*
-
 ## Contributing
 
-We welcome contributions from developers and organizations eager to enhance the Asset Management System. Please refer to our contribution guidelines for more information.
+We welcome contributions from developers and organizations eager to enhance the Asset Management System.
 
 ## License
 
-This project is licensed under the [Your Chosen License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the CoreLogics System License
 
 ## Contact
 
-For support, inquiries, or partnership opportunities, please contact [Your Contact Information/Email Address]. We are dedicated to helping you unlock the full potential of your assets.
+For support, inquiries, or partnership opportunities, please contact rashidabbasi17@gmail.com. We are dedicated to helping you unlock the full potential of your assets.
